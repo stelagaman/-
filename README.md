@@ -44,4 +44,6 @@ https://code.s3.yandex.net/qa/schemes/sprint01-project-006.png
 # ![chrome_Iv5MkOpj5c](https://github.com/user-attachments/assets/b248d067-5753-4950-88fe-b47a94abeb7a)
 # ![chrome_kDifUp79IG](https://github.com/user-attachments/assets/beea24eb-8066-4da7-ae77-30deaa6b5ec7)
 
+# https://docs.google.com/spreadsheets/d/17lr-YgzgtovBo6Gw8wIElQcQurx1M5JVt7kz6vlzaPI/edit?usp=sharing
+
 
