@@ -5,6 +5,10 @@
 # ![chrome_riMmtFqE4K](https://github.com/user-attachments/assets/364689f1-b799-4a7f-a661-301daa0f659e)
 # ![chrome_8jVJXkv1Wy](https://github.com/user-attachments/assets/73950bfc-82fb-442b-809d-015310221ef0)
 # ![chrome_xSDjSCQgJG](https://github.com/user-attachments/assets/d147b9e7-f7bc-48b3-89ec-71a9c80a92ae)
+# ![chrome_CnnI8lYSxn](https://github.com/user-attachments/assets/f59d71cf-c3dd-4ee6-8b59-b7e86fd1d38b)
+# ![chrome_Ood2OvmtIN](https://github.com/user-attachments/assets/6cafdbaf-8ddb-4cf8-9e69-aa1929af734a)
+# ![chrome_FhPPac9n8T](https://github.com/user-attachments/assets/f8de192d-3a8f-4066-970b-797e9db46e52)
+# ![chrome_Xn64XOQl8o](https://github.com/user-attachments/assets/067d777a-4a7d-4d5e-8303-e203d6ecc9fc)
 
 
 В требованиях к Яндекс Маршрутам есть таблица с ограничениями на ввод в поля формы. 
