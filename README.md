@@ -15,8 +15,14 @@ https://code.s3.yandex.net/qa/schemes/sprint01-project-002.png
 Создать набор тест-кейсов на проверку валидации полей формы Яндекс Маршрутов. Примени техники тест-дизайна: классы эквивалентности и граничные значения.
 Протестировать валидацию полей и завести баг-репорты, если есть баги.
 # ![bduiUBcXmf](https://github.com/user-attachments/assets/44429dfa-0fa4-4471-8ecf-970b50fa855e)
-
 # ![dSuqBgCnfU](https://github.com/user-attachments/assets/89bc330d-d5a1-4fb6-8c6e-4260ce26c867)
+# ![tcBYqUc13V](https://github.com/user-attachments/assets/0de072aa-a01c-45e6-bd12-55c17d258c75)
+# ![OsUuwt7nnQ](https://github.com/user-attachments/assets/67451417-f83c-4f41-a386-8cd57c211a46)
+# ![gQmVZplpil](https://github.com/user-attachments/assets/592b47df-e039-4267-84a5-689f38039c92)
+# ![st5KuHZHjA](https://github.com/user-attachments/assets/f0cfc024-fb0a-4835-8197-f2471efd417d)
+# ![ggmQPuxK2r](https://github.com/user-attachments/assets/067bd6e6-9967-43a3-8916-61cd19785061)
+# ![bLrjgrdBWG](https://github.com/user-attachments/assets/96f551e5-e5d2-434d-afe8-95576785b2e0)
+# ![O7bp2Uqek0](https://github.com/user-attachments/assets/6f36200f-6549-4fef-b78d-d5dd72e3c0fc)
 
 
 # 3. Тестирование расчета стоимости и времени поездки на собственном автомобиле
