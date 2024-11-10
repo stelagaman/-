@@ -26,6 +26,11 @@ https://code.s3.yandex.net/qa/schemes/sprint01-project-002.png
 
 # 2. Тестирование расчета стоимости и времени поездки на собственном автомобиле
 Яндекс Маршруты рассчитывают время и стоимость поездки, в том числе на своем автомобиле. В требованиях есть таблицы средней скорости автомобиля и расстояний между адресами, на основе которых должен производиться расчет времени поездки. 
+# ![chrome_hUAxodIig8](https://github.com/user-attachments/assets/760f8ac9-f087-41df-86ca-d4f6540073e3)
+# ![chrome_cpWEm7QG9p](https://github.com/user-attachments/assets/f90092c3-66c7-4e4b-97e9-231c0ee45530)
+# ![chrome_xQPZOtAp7Z](https://github.com/user-attachments/assets/92a6afd2-8651-4a37-9a29-d933e9ee54ed)
+# ![chrome_HIRNJlH7ok](https://github.com/user-attachments/assets/05d2988c-5afa-473f-bb0a-19da3e508950)
+
 # По стоимости указано, что за 1 км. расход составляет 20 руб.
 https://code.s3.yandex.net/qa/schemes/sprint01-project-005.png
 https://code.s3.yandex.net/qa/schemes/sprint01-project-006.png
@@ -36,4 +41,7 @@ https://code.s3.yandex.net/qa/schemes/sprint01-project-006.png
 
 
 Баг-репорты.
+# ![chrome_Iv5MkOpj5c](https://github.com/user-attachments/assets/b248d067-5753-4950-88fe-b47a94abeb7a)
+# ![chrome_kDifUp79IG](https://github.com/user-attachments/assets/beea24eb-8066-4da7-ae77-30deaa6b5ec7)
+
 
